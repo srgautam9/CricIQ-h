@@ -1,1 +1,1 @@
-# This repo belongs to the Paper- ScorecardQA
+# This repo belongs to the Paper- CricIQ-h
