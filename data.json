@@ -1,0 +1,165 @@
+{
+    "1": {
+        "Question": "How many 4/6s in total (both innings) from Mitchell Starc?",
+        "Answer": "2",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "2": {
+        "Question": "How many balls has David Warner played?",
+        "Answer": "122",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "3": {
+        "Question": "How many batsmen have scored more/less than 100 Runs in the innings 1?",
+        "Answer": "3, 6",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "4": {
+        "Question": "How many batsmen have scored more/less than 50 Runs in the match?",
+        "Answer": "9, 26",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "5": {
+        "Question": "How many batsmen scored a duck in the match?",
+        "Answer": "3",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "6": {
+        "Question": "How many batsmen were not out in the match?",
+        "Answer": "5",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "7": {
+        "Question": "How many boundaries are scored in the match?",
+        "Answer": "156",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "8": {
+        "Question": "How many players scored more runs than Peter Handscomb in the first innings?",
+        "Answer": "2",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "9": {
+        "Question": "How many runs has Steven Smith scored?",
+        "Answer": "83",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "10": {
+        "Question": "If Usman Khawaja faced 10 more balls in 1st innings, what would his strike rate be?",
+        "Answer": "26",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "11": {
+        "Question": "Is Matt Renshaw's strike rate better than Hilton Cartwright?",
+        "Answer": "Yes",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "12": {
+        "Question": "Was the highest individual score in the match greater than 100?",
+        "Answer": "Yes",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "13": {
+        "Question": "What is highest strike rate?",
+        "Answer": "203.7",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "14": {
+        "Question": "What is the total number of runs scored by players who hit at least one 6s in the match?",
+        "Answer": "542",
+        "image_paths": [
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning1_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning3_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning4_with_color1.png",
+            "scorecard-Images/more_than_2_innings/with-cropped/1000885_inning2_with_color1.png"
+        ]
+    },
+    "1": {
+        "Question": "How many balls has Mitchell Starc played?",
+        "Answer": "5",
+        "Image_id": "scorecard-Images/2_innings/with/1000889_2innings_with_color3.png",
+        "Category": "Basic Retrieval of Counts"
+    },
+    "2": {
+        "Question": "Is Travis Head's strike rate better than Mitchell Starc?",
+        "Answer": "Yes",
+        "Image_id": "scorecard-Images/2_innings/with/1000889_2innings_with_color3.png",
+        "Category": "Direct Player or Innings Comparisons"
+    },
+    "3": {
+        "Question": "How many players bowled fewer overs than Mohammad Hafeez in the match?",
+        "Answer": "7",
+        "Image_id": "scorecard-Images/2_innings/with/1000889_2innings_with_color3.png",
+        "Category": "Hypothetical Adjustments"
+    },
+    "4": {
+        "Question": "If Mohammad Hafeez conceded 30 more runs, how would the economy rate change?",
+        "Answer": "7.5",
+        "Image_id": "scorecard-Images/2_innings/with/1000889_2innings_with_color3.png",
+        "Category": "Bowling and Combined Conditions"
+    },
